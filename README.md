@@ -2,7 +2,7 @@
  QT application to assist travellers in finding flight connection between cities based on distance, cost and duration
  We have made this repo as a part of our Advanced data Structure Course project.
  Contributers are-
- Sandesh Kadam,
+ Sandesh Kadam, 
  ,Siddhi Sangwai 
  ,Siddharth Sadake
  ,Shashank Daga
